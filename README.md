@@ -1,4 +1,4 @@
-# Elyx Digital Task - Clean Architecture Flutter App
+# Elyx Digital Task - Flutter App
 
 A modern, enterprise-grade Flutter application demonstrating Clean Architecture principles, robust state management, and a seamless offline-first experience.
 
@@ -54,6 +54,3 @@ lib/
   ```bash
   flutter test
   ```
-
----
-*Developed as part of the Flutter Developer Assessment.*
